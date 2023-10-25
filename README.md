@@ -1,6 +1,6 @@
 Opa! Sou Fernando Cruz (neocrz) e este é meu github.
 
-- 🔭 Atualmente projetando o **tiny-os**
+- 🔭 Atualmente projetando o **symdec**
 - 🌱 Atualmente aprendendo REST API
 - 🔤 Linguagens: Python, Lua, JavaScript, SQL
 
