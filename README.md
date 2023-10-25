@@ -1,7 +1,7 @@
-Opa! Sou Fernando Cruz (neocrz) e este é meu github.
+Opa! Sou **Fernando Cruz** e este é meu github.
 
 - 🔭 Atualmente projetando o **symdec**
-- 🌱 Atualmente aprendendo REST API
+- 🌱 Atualmente aprendendo **REST API**
 - 🔤 Linguagens: Python, Lua, JavaScript, SQL
 
 💌 Entre em contato: ⤵️
