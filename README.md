@@ -2,7 +2,7 @@ Opa! Sou **Fernando Cruz** e este é meu github.
 
 - 🔭 Atualmente projetando o **symdec**
 - 🌱 Atualmente aprendendo **REST API**
-- 🔤 Linguagens: Python, Lua, JavaScript, SQL
+- 🔤 Linguagens: Python, Lua, JavaScript, SQL, Nix
 
 💌 Entre em contato: ⤵️
 
